@@ -4,8 +4,6 @@
  */
 package parrafo3;
 
-import com.mycompany.chainofresponsability.SolicitudCambio;
-import com.mycompany.chainofresponsability.Verificador;
 
 /**
  *
